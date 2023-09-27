@@ -5,3 +5,22 @@
 *,body,a,h1,h2,h3{
   font-family: 'Inter'
 }
+body{
+  font-size: 12px;
+  line-height: 130%;
+}
+h1{
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 100%;
+}
+h2{
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 130%;
+}
+button {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 130%;
+}

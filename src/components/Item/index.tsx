@@ -2,10 +2,7 @@ import { useState } from "react"
 import checkedIcon from '../../assets/checkbox.svg'
 import squareIcon from '../../assets/uncheckedbox.svg'
 import fruit from '../../assets/fruit.svg'
-import bread from '../../assets/bread.svg'
 import milk from '../../assets/milk.svg'
-import vegetable from '../../assets/vegetable.svg'
-import meat from '../../assets/meat.svg'
 import { Tag } from "../Tag"
 
 interface ItemProps {

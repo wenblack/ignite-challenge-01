@@ -3,7 +3,9 @@
 @tailwind utilities;
 
 *,body,a,h1,h2,h3{
-  font-family: 'Inter'
+  font-family: 'Inter';
+  margin:0;
+  padding:0
 }
 body{
   font-size: 12px;
